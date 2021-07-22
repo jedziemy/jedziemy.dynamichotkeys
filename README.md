@@ -1,10 +1,8 @@
 # jedziemy.dynamichotkeys
 DynamicHotkeys in autohotkey
 
-Hello this is dynamichotkeys in autohotkey!
-I made this 7weeks ago
-
-DO NOT DISTRIBUTE
+Jeśli chcesz to uzyc w jakimś clickerze koniecznie skontaktuj się ze zakaz
 
 
-jedziemy to kox
+
+Zakaz udostępniania i plagiatu.
